@@ -1,0 +1,20 @@
+Player,Team,Role,Country,Base Price,Sold Price,Player_Performance,Runs,Balls_Faced,Wickets,Balls_Bowled,Runs_Conceded,Strike_Rate,Economy
+Rishabh Pant,LSG,Wicketkeeper,India,2,27.0,RR Pant,3879,2644,0,0,0,146.71,
+Shreyas Iyer,PBKS,Batsman,India,2,26.75,SS Iyer,4233,3095,0,6,7,136.77,7.0
+Venkatesh Iyer,KKR,All-Rounder,India,2,23.75,VR Iyer,1677,1181,3,81,143,142.0,10.59
+Arshdeep Singh,PBKS,Bowler,India,2,18.0,Arshdeep Singh,32,47,111,2032,3111,68.09,9.19
+Yuzvendra Chahal,PBKS,Bowler,India,2,18.0,YS Chahal,37,86,233,4037,5417,43.02,8.05
+Jos Buttler,GT,Wicketkeeper,England,2,15.75,JC Buttler,4647,3105,0,0,0,149.66,
+KL Rahul,DC,Wicketkeeper,India,2,14.0,KL Rahul,5828,4188,0,0,0,139.16,
+Trent Boult,MI,Bowler,New Zealand,2,12.5,TA Boult,93,85,145,2784,3950,109.41,8.51
+Jofra Archer,RR,Bowler,England,2,12.5,JC Archer,326,225,84,1578,2161,144.89,8.22
+Phil Salt,RCB,Wicketkeeper,England,2,11.5,PD Salt,1258,721,0,0,0,174.48,
+Mohammed Siraj,GT,Bowler,India,2,12.25,Mohammed Siraj,117,139,128,2672,3911,84.17,8.78
+Mitchell Starc,DC,Bowler,Australia,2,11.75,MA Starc,111,121,76,1196,1761,91.74,8.83
+Ishan Kishan,SRH,Wicketkeeper,India,2,11.25,Ishan Kishan,3600,2508,0,1,4,143.54,24.0
+Jitesh Sharma,RCB,Wicketkeeper,India,1,11.0,JM Sharma,1107,726,0,0,0,152.48,
+Marcus Stoinis,PBKS,All-Rounder,Australia,2,11.0,MP Stoinis,2242,1520,46,935,1547,147.5,9.93
+Bhuvneshwar Kumar,RCB,Bowler,India,2,10.75,B Kumar,354,377,226,4600,5913,93.9,7.71
+Kagiso Rabada,GT,Bowler,South Africa,2,10.75,K Rabada,262,239,151,2299,3367,109.62,8.79
+T. Natarajan,DC,Bowler,India,2,10.75,T Natarajan,4,7,73,1553,2378,57.14,9.19
+Mohammed Shami,SRH,Bowler,India,2,10.0,Mohammed Shami,115,111,145,2920,4216,103.6,8.66

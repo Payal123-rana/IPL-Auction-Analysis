@@ -1,0 +1,35 @@
+Season,Player,Team,Role,Country,Base Price,Sold Price,Player_Performance,Runs,Balls_Faced,Wickets,Balls_Bowled,Runs_Conceded,Strike_Rate,Economy,Runs_Per_Crore,Wickets_Per_Crore,Role_Group,Metric_Name,Role_Metric,Value_Rank,Lowest_Value_Rank
+2025,Phil Salt,RCB,Wicketkeeper,England,2,11.5,PD Salt,403,229,0,0,0,175.98,,35.04347826086956,0.0,Batter,Runs per crore (2025 auction price),35.04347826086956,2,6
+2025,Ishan Kishan,SRH,Wicketkeeper,India,2,11.25,Ishan Kishan,354,232,0,1,4,152.59,24.0,31.466666666666665,0.0,Batter,Runs per crore (2025 auction price),31.466666666666665,4,4
+2025,Jofra Archer,RR,Bowler,England,2,12.5,JC Archer,63,50,11,273,431,126.0,9.47,5.04,0.88,Bowler,Wickets per crore (2025 auction price),0.88,7,4
+2025,Mohammed Shami,SRH,Bowler,India,2,10.0,Mohammed Shami,10,10,6,180,337,100.0,11.23,1.0,0.6,Bowler,Wickets per crore (2025 auction price),0.6,8,3
+2025,Trent Boult,MI,Bowler,New Zealand,2,12.5,TA Boult,2,3,22,346,517,66.67,8.97,0.16,1.76,Bowler,Wickets per crore (2025 auction price),1.76,1,10
+2025,Mitchell Starc,DC,Bowler,Australia,2,11.75,MA Starc,6,10,14,233,400,60.0,10.3,0.5106382978723404,1.1914893617021276,Bowler,Wickets per crore (2025 auction price),1.1914893617021276,4,7
+2025,Rishabh Pant,LSG,Wicketkeeper,India,2,27.0,RR Pant,269,202,0,0,0,133.17,,9.962962962962964,0.0,Batter,Runs per crore (2025 auction price),9.962962962962964,7,1
+2025,Mohammed Siraj,GT,Bowler,India,2,12.25,Mohammed Siraj,3,4,16,342,527,75.0,9.25,0.24489795918367346,1.3061224489795917,Bowler,Wickets per crore (2025 auction price),1.3061224489795917,3,8
+2025,Kagiso Rabada,GT,Bowler,South Africa,2,10.75,K Rabada,9,8,2,84,162,112.5,11.57,0.8372093023255814,0.18604651162790697,Bowler,Wickets per crore (2025 auction price),0.18604651162790697,9,2
+2025,Shreyas Iyer,PBKS,Batsman,India,2,26.75,SS Iyer,604,345,0,0,0,175.07,,22.57943925233645,0.0,Batter,Runs per crore (2025 auction price),22.57943925233645,6,2
+2025,Arshdeep Singh,PBKS,Bowler,India,2,18.0,Arshdeep Singh,2,6,21,350,518,33.33,8.88,0.1111111111111111,1.1666666666666667,Bowler,Wickets per crore (2025 auction price),1.1666666666666667,5,6
+2025,Jos Buttler,GT,Wicketkeeper,England,2,15.75,JC Buttler,538,330,0,0,0,163.03,,34.15873015873016,0.0,Batter,Runs per crore (2025 auction price),34.15873015873016,3,5
+2025,Yuzvendra Chahal,PBKS,Bowler,India,2,18.0,YS Chahal,0,0,16,270,430,,9.56,0.0,0.8888888888888888,Bowler,Wickets per crore (2025 auction price),0.8888888888888888,6,5
+2025,Jitesh Sharma,RCB,Wicketkeeper,India,1,11.0,JM Sharma,261,148,0,0,0,176.35,,23.727272727272727,0.0,Batter,Runs per crore (2025 auction price),23.727272727272727,5,3
+2025,Bhuvneshwar Kumar,RCB,Bowler,India,2,10.75,B Kumar,14,25,17,312,483,56.0,9.29,1.302325581395349,1.5813953488372092,Bowler,Wickets per crore (2025 auction price),1.5813953488372092,2,9
+2025,KL Rahul,DC,Wicketkeeper,India,2,14.0,KL Rahul,546,363,0,0,0,150.41,,39.0,0.0,Batter,Runs per crore (2025 auction price),39.0,1,7
+2025,T. Natarajan,DC,Bowler,India,2,10.75,T Natarajan,0,0,1,25,53,,12.72,0.0,0.09302325581395349,Bowler,Wickets per crore (2025 auction price),0.09302325581395349,10,1
+2026,Bhuvneshwar Kumar,RCB,Bowler,India,2,10.75,B Kumar,34,26,28,378,501,130.77,7.95,3.1627906976744184,2.604651162790698,Bowler,Wickets per crore (2025 auction price),2.604651162790698,2,9
+2026,Ishan Kishan,SRH,Wicketkeeper,India,2,11.25,Ishan Kishan,602,330,0,0,0,182.42,,53.51111111111111,0.0,Batter,Runs per crore (2025 auction price),53.51111111111111,1,7
+2026,Phil Salt,RCB,Wicketkeeper,England,2,11.5,PD Salt,202,120,0,0,0,168.33,,17.565217391304348,0.0,Batter,Runs per crore (2025 auction price),17.565217391304348,5,3
+2026,Jitesh Sharma,RCB,Wicketkeeper,India,1,11.0,JM Sharma,116,95,0,0,0,122.11,,10.545454545454545,0.0,Batter,Runs per crore (2025 auction price),10.545454545454545,7,1
+2026,Trent Boult,MI,Bowler,New Zealand,2,12.5,TA Boult,8,4,2,97,188,200.0,11.63,0.64,0.16,Bowler,Wickets per crore (2025 auction price),0.16,10,1
+2026,Jofra Archer,RR,Bowler,England,2,12.5,JC Archer,64,47,25,360,559,136.17,9.32,5.12,2.0,Bowler,Wickets per crore (2025 auction price),2.0,3,8
+2026,Arshdeep Singh,PBKS,Bowler,India,2,18.0,Arshdeep Singh,1,1,14,318,541,100.0,10.21,0.05555555555555555,0.7777777777777778,Bowler,Wickets per crore (2025 auction price),0.7777777777777778,7,4
+2026,Jos Buttler,GT,Wicketkeeper,England,2,15.75,JC Buttler,526,345,0,0,0,152.46,,33.3968253968254,0.0,Batter,Runs per crore (2025 auction price),33.3968253968254,3,5
+2026,Yuzvendra Chahal,PBKS,Bowler,India,2,18.0,YS Chahal,0,0,12,246,385,,9.39,0.0,0.6666666666666666,Bowler,Wickets per crore (2025 auction price),0.6666666666666666,8,3
+2026,Mohammed Siraj,GT,Bowler,India,2,12.25,Mohammed Siraj,5,16,19,372,562,31.25,9.06,0.40816326530612246,1.5510204081632653,Bowler,Wickets per crore (2025 auction price),1.5510204081632653,4,7
+2026,Kagiso Rabada,GT,Bowler,South Africa,2,10.75,K Rabada,47,38,29,388,626,123.68,9.68,4.372093023255814,2.697674418604651,Bowler,Wickets per crore (2025 auction price),2.697674418604651,1,10
+2026,Shreyas Iyer,PBKS,Batsman,India,2,26.75,SS Iyer,498,295,0,0,0,168.81,,18.61682242990654,0.0,Batter,Runs per crore (2025 auction price),18.61682242990654,4,4
+2026,Rishabh Pant,LSG,Wicketkeeper,India,2,27.0,RR Pant,313,227,0,0,0,137.89,,11.592592592592593,0.0,Batter,Runs per crore (2025 auction price),11.592592592592593,6,2
+2026,T. Natarajan,DC,Bowler,India,2,10.75,T Natarajan,1,2,5,191,356,50.0,11.18,0.09302325581395349,0.46511627906976744,Bowler,Wickets per crore (2025 auction price),0.46511627906976744,9,2
+2026,Mohammed Shami,SRH,Bowler,India,2,10.0,Mohammed Shami,31,22,12,306,459,140.91,9.0,3.1,1.2,Bowler,Wickets per crore (2025 auction price),1.2,5,6
+2026,KL Rahul,DC,Wicketkeeper,India,2,14.0,KL Rahul,593,340,0,0,0,174.41,,42.357142857142854,0.0,Batter,Runs per crore (2025 auction price),42.357142857142854,2,6
+2026,Mitchell Starc,DC,Bowler,Australia,2,11.75,MA Starc,0,2,11,132,224,0.0,10.18,0.0,0.9361702127659575,Bowler,Wickets per crore (2025 auction price),0.9361702127659575,6,5
