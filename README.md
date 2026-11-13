@@ -95,4 +95,10 @@ This creates `ipl_auction_analysis.db` from the project's existing CSV files. Op
 
 Ball-by-ball match data: [Cricsheet IPL JSON downloads](https://cricsheet.org/downloads/). Auction-price reference links are listed in [`data/SOURCES.md`](data/SOURCES.md). Retain Cricsheet's `LICENSE.txt` and `README.txt` when redistributing the raw data.
 <img width="1296" height="569" alt="Screenshot 2026-11-12 152635" src="https://github.com/user-attachments/assets/ed90a733-35a0-4843-a18f-35679da945e1" />
+<img width="1040" height="459" alt="Screenshot 2026-11-12 152758" src="https://github.com/user-attachments/assets/e0edc2ed-94ee-4770-b150-4faf3b002605" />
+<img width="1028" height="482" alt="Screenshot 2026-11-12 152824" src="https://github.com/user-attachments/assets/d5706216-317c-4078-87a6-0fa2244a7cd4" />
+<img width="1007" height="411" alt="Screenshot 2026-11-12 152842" src="https://github.com/user-attachments/assets/4d6a278f-ff87-4198-94e2-6bbb6a2bb561" />
+
+
+
 
